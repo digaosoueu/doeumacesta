@@ -1,0 +1,417 @@
+{2015/10/01 11:37:05} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => '14',
+  'SenderEmail' => 'digaosoueu@gmail.com',
+)) - begin 
+{2015/10/01 11:37:07} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => '14',
+  'SenderEmail' => 'digaosoueu@gmail.com',
+)) - error [HTTP 401] - UNAUTHORIZED  
+{2015/10/01 11:45:08} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => '15',
+  'SenderEmail' => 'digaosoueu@gmail.com',
+)) - begin 
+{2015/10/01 11:45:09} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => '15',
+  'SenderEmail' => 'digaosoueu@gmail.com',
+)) - end {1}2E85755852526A6994D4BF801BF608A5 
+{2015/10/02 09:47:43} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => '14',
+  'SenderEmail' => 'null',
+)) - begin 
+{2015/10/02 09:47:44} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => '14',
+  'SenderEmail' => 'null',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11024] - Items invalid quantity. 
+{2015/10/02 09:48:25} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => '14',
+  'SenderEmail' => 'null',
+)) - begin 
+{2015/10/02 09:48:25} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => '14',
+  'SenderEmail' => 'null',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11024] - Items invalid quantity. 
+{2015/10/02 09:48:38} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => '14',
+  'SenderEmail' => 'null',
+)) - begin 
+{2015/10/02 09:48:38} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => '14',
+  'SenderEmail' => 'null',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11024] - Items invalid quantity. 
+{2015/10/02 09:48:51} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => '14',
+  'SenderEmail' => 'digaosoueu@gmail.com',
+)) - begin 
+{2015/10/02 09:48:52} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => '14',
+  'SenderEmail' => 'digaosoueu@gmail.com',
+)) - end {1}13B918EB424246D33405CF9D1048734C 
+{2015/10/02 09:51:18} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => '14',
+  'SenderEmail' => 'digaosoueu@gmail.com',
+)) - begin 
+{2015/10/02 09:51:18} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => '14',
+  'SenderEmail' => 'digaosoueu@gmail.com',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11024] - Items invalid quantity. 
+{2015/10/02 09:51:38} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => '14',
+  'SenderEmail' => 'digaosoueu@gmail.com',
+)) - begin 
+{2015/10/02 09:51:39} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => '14',
+  'SenderEmail' => 'digaosoueu@gmail.com',
+)) - end {1}A057B87EE3E3FCE334C85F9388A9E0B4 
+{2015/10/02 09:52:52} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => '16',
+  'SenderEmail' => 'digaosoueu@gmail.com',
+)) - begin 
+{2015/10/02 09:52:52} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => '16',
+  'SenderEmail' => 'digaosoueu@gmail.com',
+)) - end {1}BEB4E5086464985AA4AF7F9ADF00695A 
+{2015/10/02 09:53:33} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=5A918A-87985C985CE9-1AA457AF9F33-8E8D29) - begin 
+{2015/10/02 09:53:34} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=5A918A-87985C985CE9-1AA457AF9F33-8E8D29) - end Transaction: array (
+  'code' => 'F67C2940-6FF7-422E-AC83-DF44101F8929',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-02T09:52:53.000-03:00',
+  'reference' => '16',
+  'status' => '1',
+  'itemsCount' => 1,
+)) 
+{2015/10/02 10:25:31} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=5A918A-87985C985CE9-1AA457AF9F33-8E8D29) - begin 
+{2015/10/02 10:26:41} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=5A918A-87985C985CE9-1AA457AF9F33-8E8D29) - begin 
+{2015/10/02 10:26:42} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=5A918A-87985C985CE9-1AA457AF9F33-8E8D29) - end Transaction: array (
+  'code' => 'F67C2940-6FF7-422E-AC83-DF44101F8929',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-02T09:52:53.000-03:00',
+  'reference' => '16',
+  'status' => '1',
+  'itemsCount' => 1,
+)) 
+{2015/10/02 10:32:45} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=5A918A-87985C985CE9-1AA457AF9F33-8E8D29) - begin 
+{2015/10/02 10:32:46} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=5A918A-87985C985CE9-1AA457AF9F33-8E8D29) - end Transaction: array (
+  'code' => 'F67C2940-6FF7-422E-AC83-DF44101F8929',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-02T09:52:53.000-03:00',
+  'reference' => '16',
+  'status' => '1',
+  'itemsCount' => 1,
+)) 
+{2015/10/02 10:37:51} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=5A918A-87985C985CE9-1AA457AF9F33-8E8D29) - begin 
+{2015/10/02 10:37:52} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=5A918A-87985C985CE9-1AA457AF9F33-8E8D29) - end Transaction: array (
+  'code' => 'F67C2940-6FF7-422E-AC83-DF44101F8929',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-02T09:52:53.000-03:00',
+  'reference' => '16',
+  'status' => '1',
+  'itemsCount' => 1,
+)) 
+{2015/10/02 10:38:50} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=5A918A-87985C985CE9-1AA457AF9F33-8E8D29) - begin 
+{2015/10/02 10:38:50} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=5A918A-87985C985CE9-1AA457AF9F33-8E8D29) - end Transaction: array (
+  'code' => 'F67C2940-6FF7-422E-AC83-DF44101F8929',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-02T09:52:53.000-03:00',
+  'reference' => '16',
+  'status' => '1',
+  'itemsCount' => 1,
+)) 
+{2015/10/02 11:17:27} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=5A918A-87985C985CE9-1AA457AF9F33-8E8D29) - begin 
+{2015/10/02 11:17:29} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=5A918A-87985C985CE9-1AA457AF9F33-8E8D29) - end Transaction: array (
+  'code' => 'F67C2940-6FF7-422E-AC83-DF44101F8929',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-02T09:52:53.000-03:00',
+  'reference' => '16',
+  'status' => '1',
+  'itemsCount' => 1,
+)) 
+{2015/10/05 09:57:35} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'L02-0000000017',
+  'SenderEmail' => 'digaosoueu@gmail.com',
+)) - begin 
+{2015/10/05 09:57:36} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'L02-0000000017',
+  'SenderEmail' => 'digaosoueu@gmail.com',
+)) - end {1}25A3ADF11919E65FF47A5FB3AAB950EB 
+{2015/10/05 10:09:00} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=5A918A-87985C985CE9-1AA457AF9F33-8E8D29) - begin 
+{2015/10/05 10:09:03} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=5A918A-87985C985CE9-1AA457AF9F33-8E8D29) - end Transaction: array (
+  'code' => 'F67C2940-6FF7-422E-AC83-DF44101F8929',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-02T09:52:53.000-03:00',
+  'reference' => '16',
+  'status' => '1',
+  'itemsCount' => 1,
+)) 
+{2015/10/05 10:29:45} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=223405-40A3AEA3AE6B-3FF40C5F982D-F13AB0) - begin 
+{2015/10/05 10:29:46} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=223405-40A3AEA3AE6B-3FF40C5F982D-F13AB0) - end Transaction: array (
+  'code' => 'BD883B37-9223-4B40-83C5-C91E7A7572FE',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-05T09:57:36.000-03:00',
+  'reference' => 'L02-0000000017',
+  'status' => '1',
+  'itemsCount' => 1,
+)) 
+{2015/10/05 10:29:46} [Info] PagSeguroTransactionSearchService.SearchByCode(BD883B37-9223-4B40-83C5-C91E7A7572FE) - begin 
+{2015/10/05 10:29:46} [Info] PagSeguroTransactionSearchService.SearchByCode(transactionCode=BD883B37-9223-4B40-83C5-C91E7A7572FE) - end Transaction: array (
+  'code' => 'BD883B37-9223-4B40-83C5-C91E7A7572FE',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-05T09:57:36.000-03:00',
+  'reference' => 'L02-0000000017',
+  'status' => '1',
+  'itemsCount' => 1,
+) 
+{2015/10/05 10:30:49} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=223405-40A3AEA3AE6B-3FF40C5F982D-F13AB0) - begin 
+{2015/10/05 10:30:50} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=223405-40A3AEA3AE6B-3FF40C5F982D-F13AB0) - end Transaction: array (
+  'code' => 'BD883B37-9223-4B40-83C5-C91E7A7572FE',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-05T09:57:36.000-03:00',
+  'reference' => 'L02-0000000017',
+  'status' => '1',
+  'itemsCount' => 1,
+)) 
+{2015/10/05 10:30:50} [Info] PagSeguroTransactionSearchService.SearchByCode(BD883B37-9223-4B40-83C5-C91E7A7572FE) - begin 
+{2015/10/05 10:30:50} [Info] PagSeguroTransactionSearchService.SearchByCode(transactionCode=BD883B37-9223-4B40-83C5-C91E7A7572FE) - end Transaction: array (
+  'code' => 'BD883B37-9223-4B40-83C5-C91E7A7572FE',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-05T09:57:36.000-03:00',
+  'reference' => 'L02-0000000017',
+  'status' => '1',
+  'itemsCount' => 1,
+) 
+{2015/10/05 10:35:55} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=223405-40A3AEA3AE6B-3FF40C5F982D-F13AB0) - begin 
+{2015/10/05 10:35:55} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=223405-40A3AEA3AE6B-3FF40C5F982D-F13AB0) - end Transaction: array (
+  'code' => 'BD883B37-9223-4B40-83C5-C91E7A7572FE',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-05T09:57:36.000-03:00',
+  'reference' => 'L02-0000000017',
+  'status' => '1',
+  'itemsCount' => 1,
+)) 
+{2015/10/05 10:35:55} [Info] PagSeguroTransactionSearchService.SearchByCode(BD883B37-9223-4B40-83C5-C91E7A7572FE) - begin 
+{2015/10/05 10:35:55} [Info] PagSeguroTransactionSearchService.SearchByCode(transactionCode=BD883B37-9223-4B40-83C5-C91E7A7572FE) - end Transaction: array (
+  'code' => 'BD883B37-9223-4B40-83C5-C91E7A7572FE',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-05T09:57:36.000-03:00',
+  'reference' => 'L02-0000000017',
+  'status' => '1',
+  'itemsCount' => 1,
+) 
+{2015/10/05 10:37:07} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=223405-40A3AEA3AE6B-3FF40C5F982D-F13AB0) - begin 
+{2015/10/05 10:37:08} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=223405-40A3AEA3AE6B-3FF40C5F982D-F13AB0) - end Transaction: array (
+  'code' => 'BD883B37-9223-4B40-83C5-C91E7A7572FE',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-05T09:57:36.000-03:00',
+  'reference' => 'L02-0000000017',
+  'status' => '1',
+  'itemsCount' => 1,
+)) 
+{2015/10/05 10:37:08} [Info] PagSeguroTransactionSearchService.SearchByCode(BD883B37-9223-4B40-83C5-C91E7A7572FE) - begin 
+{2015/10/05 10:37:09} [Info] PagSeguroTransactionSearchService.SearchByCode(transactionCode=BD883B37-9223-4B40-83C5-C91E7A7572FE) - end Transaction: array (
+  'code' => 'BD883B37-9223-4B40-83C5-C91E7A7572FE',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-05T09:57:36.000-03:00',
+  'reference' => 'L02-0000000017',
+  'status' => '1',
+  'itemsCount' => 1,
+) 
+{2015/10/05 10:43:46} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=223405-40A3AEA3AE6B-3FF40C5F982D-F13AB0) - begin 
+{2015/10/05 10:43:46} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=223405-40A3AEA3AE6B-3FF40C5F982D-F13AB0) - end Transaction: array (
+  'code' => 'BD883B37-9223-4B40-83C5-C91E7A7572FE',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-05T09:57:36.000-03:00',
+  'reference' => 'L02-0000000017',
+  'status' => '1',
+  'itemsCount' => 1,
+)) 
+{2015/10/05 10:43:46} [Info] PagSeguroTransactionSearchService.SearchByCode(BD883B37-9223-4B40-83C5-C91E7A7572FE) - begin 
+{2015/10/05 10:43:47} [Info] PagSeguroTransactionSearchService.SearchByCode(transactionCode=BD883B37-9223-4B40-83C5-C91E7A7572FE) - end Transaction: array (
+  'code' => 'BD883B37-9223-4B40-83C5-C91E7A7572FE',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-05T09:57:36.000-03:00',
+  'reference' => 'L02-0000000017',
+  'status' => '1',
+  'itemsCount' => 1,
+) 
+{2015/10/05 10:47:00} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=223405-40A3AEA3AE6B-3FF40C5F982D-F13AB0) - begin 
+{2015/10/05 10:47:01} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=223405-40A3AEA3AE6B-3FF40C5F982D-F13AB0) - end Transaction: array (
+  'code' => 'BD883B37-9223-4B40-83C5-C91E7A7572FE',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-05T09:57:36.000-03:00',
+  'reference' => 'L02-0000000017',
+  'status' => '1',
+  'itemsCount' => 1,
+)) 
+{2015/10/05 10:47:01} [Info] PagSeguroTransactionSearchService.SearchByCode(BD883B37-9223-4B40-83C5-C91E7A7572FE) - begin 
+{2015/10/05 10:47:01} [Info] PagSeguroTransactionSearchService.SearchByCode(transactionCode=BD883B37-9223-4B40-83C5-C91E7A7572FE) - end Transaction: array (
+  'code' => 'BD883B37-9223-4B40-83C5-C91E7A7572FE',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-05T09:57:36.000-03:00',
+  'reference' => 'L02-0000000017',
+  'status' => '1',
+  'itemsCount' => 1,
+) 
+{2015/10/05 10:56:15} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=223405-40A3AEA3AE6B-3FF40C5F982D-F13AB0) - begin 
+{2015/10/05 10:56:16} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=223405-40A3AEA3AE6B-3FF40C5F982D-F13AB0) - end Transaction: array (
+  'code' => 'BD883B37-9223-4B40-83C5-C91E7A7572FE',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-05T09:57:36.000-03:00',
+  'reference' => 'L02-0000000017',
+  'status' => '1',
+  'itemsCount' => 1,
+)) 
+{2015/10/05 10:56:16} [Info] PagSeguroTransactionSearchService.SearchByCode(BD883B37-9223-4B40-83C5-C91E7A7572FE) - begin 
+{2015/10/05 10:56:16} [Info] PagSeguroTransactionSearchService.SearchByCode(transactionCode=BD883B37-9223-4B40-83C5-C91E7A7572FE) - end Transaction: array (
+  'code' => 'BD883B37-9223-4B40-83C5-C91E7A7572FE',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-05T09:57:36.000-03:00',
+  'reference' => 'L02-0000000017',
+  'status' => '1',
+  'itemsCount' => 1,
+) 
+{2015/10/05 11:16:22} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=223405-40A3AEA3AE6B-3FF40C5F982D-F13AB0) - begin 
+{2015/10/05 11:16:23} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=223405-40A3AEA3AE6B-3FF40C5F982D-F13AB0) - end Transaction: array (
+  'code' => 'BD883B37-9223-4B40-83C5-C91E7A7572FE',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-05T09:57:36.000-03:00',
+  'reference' => 'L02-0000000017',
+  'status' => '1',
+  'itemsCount' => 1,
+)) 
+{2015/10/05 11:16:23} [Info] PagSeguroTransactionSearchService.SearchByCode(BD883B37-9223-4B40-83C5-C91E7A7572FE) - begin 
+{2015/10/05 11:16:23} [Info] PagSeguroTransactionSearchService.SearchByCode(transactionCode=BD883B37-9223-4B40-83C5-C91E7A7572FE) - end Transaction: array (
+  'code' => 'BD883B37-9223-4B40-83C5-C91E7A7572FE',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-05T09:57:36.000-03:00',
+  'reference' => 'L02-0000000017',
+  'status' => '1',
+  'itemsCount' => 1,
+) 
+{2015/10/10 09:16:33} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=586AC8-CDEF1EEF1EB7-6FF4697FAB44-DA5735) - begin 
+{2015/10/10 09:16:34} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=586AC8-CDEF1EEF1EB7-6FF4697FAB44-DA5735) - end Transaction: array (
+  'code' => '46AA896C-9206-4493-88D5-9C0682B3F3B2',
+  'email' => 'rodrigo.santos5@doeumacesta.com.br',
+  'date' => '2015-09-27T13:29:49.000-03:00',
+  'reference' => '13',
+  'status' => '7',
+  'itemsCount' => 1,
+)) 
+{2015/10/10 09:17:29} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=39F93D-ADCEA8CEA8E8-8EE48C7FA83B-1755DC) - begin 
+{2015/10/10 09:17:30} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=39F93D-ADCEA8CEA8E8-8EE48C7FA83B-1755DC) - end Transaction: array (
+  'code' => '86AB6ACC-7AFF-4271-97A7-FC83A67A9329',
+  'email' => 'rodrigo.santos5@doeumacesta.com.br',
+  'date' => '2015-09-27T13:49:52.000-03:00',
+  'reference' => '13',
+  'status' => '7',
+  'itemsCount' => 1,
+)) 
+{2015/10/12 17:18:33} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'L02-18',
+  'SenderEmail' => 'rodrigo_dos_st@yahoo.com.br',
+)) - begin 
+{2015/10/12 17:18:34} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'L02-18',
+  'SenderEmail' => 'rodrigo_dos_st@yahoo.com.br',
+)) - end {1}632AF747D7D74831149C4F8B3A14D6E2 
+{2015/10/12 17:30:44} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'L02-18',
+  'SenderEmail' => 'rodrigo_dos_st@yahoo.com.br',
+)) - begin 
+{2015/10/12 17:30:45} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'L02-18',
+  'SenderEmail' => 'rodrigo_dos_st@yahoo.com.br',
+)) - end {1}89E8039444448459947D2FAC3824E022 
+{2015/10/12 17:41:23} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'L02-18',
+  'SenderEmail' => 'rodrigo_dos_st@yahoo.com.br',
+)) - begin 
+{2015/10/12 17:41:23} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'L02-18',
+  'SenderEmail' => 'rodrigo_dos_st@yahoo.com.br',
+)) - end {1}486FF986DEDEB964441FDF93FA7D869F 
+{2015/10/12 17:43:07} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=DDB00E-FAD0B3D0B32E-F334391F9BC0-D6E67D) - begin 
+{2015/10/12 17:43:08} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=DDB00E-FAD0B3D0B32E-F334391F9BC0-D6E67D) - end Transaction: array (
+  'code' => 'F24C71C6-0563-4217-9B98-CD9F151C9A01',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-12T17:41:24.000-03:00',
+  'reference' => 'L02-18',
+  'status' => '1',
+  'itemsCount' => 1,
+)) 
+{2015/10/12 17:43:08} [Info] PagSeguroTransactionSearchService.SearchByCode(F24C71C6-0563-4217-9B98-CD9F151C9A01) - begin 
+{2015/10/12 17:43:09} [Info] PagSeguroTransactionSearchService.SearchByCode(transactionCode=F24C71C6-0563-4217-9B98-CD9F151C9A01) - end Transaction: array (
+  'code' => 'F24C71C6-0563-4217-9B98-CD9F151C9A01',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-12T17:41:24.000-03:00',
+  'reference' => 'L02-18',
+  'status' => '1',
+  'itemsCount' => 1,
+) 
+{2015/10/17 07:32:39} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=C088FE-7AADD8ADD8C8-4884089FB63E-2024C7) - begin 
+{2015/10/17 07:32:41} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=C088FE-7AADD8ADD8C8-4884089FB63E-2024C7) - end Transaction: array (
+  'code' => 'F67C2940-6FF7-422E-AC83-DF44101F8929',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-02T09:52:53.000-03:00',
+  'reference' => '16',
+  'status' => '7',
+  'itemsCount' => 1,
+)) 
+{2015/10/18 07:37:11} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=4F81FB-767D1B7D1B21-222491BF84C7-7663CA) - begin 
+{2015/10/18 07:37:12} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=4F81FB-767D1B7D1B21-222491BF84C7-7663CA) - end Transaction: array (
+  'code' => 'BD883B37-9223-4B40-83C5-C91E7A7572FE',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-05T09:57:36.000-03:00',
+  'reference' => 'L02-0000000017',
+  'status' => '7',
+  'itemsCount' => 1,
+)) 
+{2015/10/18 07:37:12} [Info] PagSeguroTransactionSearchService.SearchByCode(BD883B37-9223-4B40-83C5-C91E7A7572FE) - begin 
+{2015/10/18 07:37:13} [Info] PagSeguroTransactionSearchService.SearchByCode(transactionCode=BD883B37-9223-4B40-83C5-C91E7A7572FE) - end Transaction: array (
+  'code' => 'BD883B37-9223-4B40-83C5-C91E7A7572FE',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-05T09:57:36.000-03:00',
+  'reference' => 'L02-0000000017',
+  'status' => '7',
+  'itemsCount' => 1,
+) 
+{2015/10/25 10:18:39} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=AB9CDC-DD19561956C5-AFF46F4FAA80-ADFFF0) - begin 
+{2015/10/25 10:18:40} [Info] PagSeguroNotificationService.CheckTransaction(notificationCode=AB9CDC-DD19561956C5-AFF46F4FAA80-ADFFF0) - end Transaction: array (
+  'code' => 'F24C71C6-0563-4217-9B98-CD9F151C9A01',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-12T17:41:24.000-03:00',
+  'reference' => 'L02-18',
+  'status' => '7',
+  'itemsCount' => 1,
+)) 
+{2015/10/25 10:18:40} [Info] PagSeguroTransactionSearchService.SearchByCode(F24C71C6-0563-4217-9B98-CD9F151C9A01) - begin 
+{2015/10/25 10:18:40} [Info] PagSeguroTransactionSearchService.SearchByCode(transactionCode=F24C71C6-0563-4217-9B98-CD9F151C9A01) - end Transaction: array (
+  'code' => 'F24C71C6-0563-4217-9B98-CD9F151C9A01',
+  'email' => 'digaosoueu@gmail.com',
+  'date' => '2015-10-12T17:41:24.000-03:00',
+  'reference' => 'L02-18',
+  'status' => '7',
+  'itemsCount' => 1,
+) 
+{2020/01/27 00:10:57} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'L02-undefined',
+  'SenderEmail' => 'rodrigo_dos_st@yahoo.com.br',
+)) - begin 
+{2020/01/27 00:10:58} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'L02-undefined',
+  'SenderEmail' => 'rodrigo_dos_st@yahoo.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11024] - Items invalid quantity. 
+{2020/02/01 16:41:07} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'L02-2',
+  'SenderEmail' => 'rodrigo_dos_st@yahoo.com.br',
+)) - begin 
+{2020/02/01 16:41:08} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'L02-2',
+  'SenderEmail' => 'rodrigo_dos_st@yahoo.com.br',
+)) - end {1}B1EB76FADCDC031CC4F8EFBCD2050673 
+{2020/02/01 19:10:41} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'L02-8',
+  'SenderEmail' => 'rodrigo_dos_st@yahoo.com.br',
+)) - begin 
+{2020/02/01 19:10:42} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'L02-8',
+  'SenderEmail' => 'rodrigo_dos_st@yahoo.com.br',
+)) - end {1}A017835EBFBF6B9DD438AFB741FE5F86 
